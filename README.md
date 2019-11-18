@@ -10,5 +10,3 @@ chmod +x start.sh
 python start.sh
 
 
-# Chatbot
-# Chatbot
